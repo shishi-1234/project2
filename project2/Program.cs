@@ -40,6 +40,7 @@ namespace project2
             Console.WriteLine("newpassword " + nerpass);
             Console.WriteLine("pincode " + pincode);
             Console.ReadLine();
+            //gntrjt
 
         }
     }
